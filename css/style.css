@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.logo-image {
+    height: 30px;
+    width: auto;
+}
+
+.hero-section {
+    height: 500px;
+    background: url('../images/background-1.jpg');
+    background-position: center center;
+}
+
+.hero-header {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.hero-subhead {
+    color: #cdcdcd;
+}
+
+.second-hero {
+    height: 400px;
+}
+
+.left-back-img {
+    background: url('../images/background-2.jpg');
+}
